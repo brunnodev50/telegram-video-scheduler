@@ -101,7 +101,6 @@ telegram-video-scheduler/
 
 - **Nunca compartilhe** seu `API_ID`, `API_HASH` ou número de telefone publicamente
 - **Nunca suba** o `bot_videos.py` preenchido ou o arquivo `session.session` para o GitHub
-- O `.gitignore` já está configurado para proteger esses arquivos
 
 ---
 
