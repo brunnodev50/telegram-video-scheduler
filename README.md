@@ -16,7 +16,7 @@ Aplicativo desktop em Python (Tkinter) para agendar e enviar vídeos automaticam
 
 1. **Clone o repositório**
 ```bash
-   git clone https://github.com/seu-usuario/telegram-video-scheduler.git
+   git clone https://github.com/brunnodev50/telegram-video-scheduler.git
    cd telegram-video-scheduler
 ```
 
